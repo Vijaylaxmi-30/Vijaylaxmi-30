@@ -40,7 +40,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**GoSafe App**](#) | Safest route recommendation with real-time crime data & maps | Flutter · Firebase · OSRM API |
-| [**ASCVD Risk Calculator**](#) | ML-powered cardiovascular risk predictor with health dashboard | React.js · ML · APIs |
+| [**ASCVD Risk Calculator**](#) | ML-powered cardiovascular risk predictor with health dashboard | React.js . Node.js · ML · APIs |
 | [**Melbourne House Price Prediction**](#) | Predicts property prices using ML & LSTM models | Python · TensorFlow · scikit-learn |
 
 > 📌 *Pin these repos on your GitHub profile to make them stand out.*
