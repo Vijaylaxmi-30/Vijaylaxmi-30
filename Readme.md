@@ -25,7 +25,7 @@
 - 🧩 Skilled in **MERN Stack, Flutter, Machine Learning**
 - 💡 Passionate about **problem-solving** & **real-world apps**
 - 🏆 Hackathon Enthusiast (2× winner/runner-up)
-- 🤝 Open to **Frontend React Internships** & collaborations
+- 🤝 Open to **SDE roles** & collaborations
 
 ---
 
