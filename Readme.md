@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6f61,100:ffc371&height=250&section=header&text=Hi%20I'm%20Vijay%20Laxmi%20👋&fontSize=45&fontColor=fff&animation=fadeIn" />
 
 <!-- Quick Intro -->
-<h3 align="center">💻 Third-Year Computer Engineering Student | MERN | Flutter | ML</h3>
+<h3 align="center">💻 4th-Year Computer Engineering Student | MERN | Flutter | ML</h3>
 <p align="center">🚀 Passionate about building scalable, user-centric applications and solving problems through code.</p>
 
 <!-- Social Badges -->
