@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **3rd Year Computer Engineering @ PICT** (GPA: 8.8/10)
+- 🎓 **4th Year Computer Engineering @ PICT** (GPA: 8.96/10)
 - 🧩 Skilled in **MERN Stack, Flutter, Machine Learning**
 - 💡 Passionate about **problem-solving** & **real-world apps**
 - 🏆 Hackathon Enthusiast (2× winner/runner-up)
